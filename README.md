@@ -74,5 +74,9 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcarmo&show_icons=true&locale=en&layout=compact" alt="patrickcarmo" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcarmo&show_icons=true&locale=en&layout=compact" alt="patrickcarmo" />
 </p>
+
+<a align="right" href="https://app.daily.dev/patrickcarmo"><img src="https://api.daily.dev/devcards/acd8e2a515564429a8d800386cc97713.png?r=d1h" width="400" alt="Patrick Carmo's Dev Card"/></a>
+
+
