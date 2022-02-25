@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😃
 
 <!--
 **patrickcarmo/patrickcarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 👋 Hi, I’m @patrickcarmo
+- 🤓 I’m Frontend Engineer, passionate about technology, learning and sharing information
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/patrickcarmo/?locale=en_US)
+- 🌱 I’m currently learning about Blockchain, Data Science and Machine Learning
+- <a href="https://app.daily.dev/patrickcarmo"><img src="https://api.daily.dev/devcards/acd8e2a515564429a8d800386cc97713.png?r=r47" width="400" alt="Patrick Carmo's Dev Card"/></a>
