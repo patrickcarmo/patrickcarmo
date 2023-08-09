@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @patrickcarmo
 - 🤓 I’m Frontend Engineer, passionate about technology, learning and sharing information
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/patrickcarmo/?locale=en_US)
-- 🌱 I’m currently learning about Blockchain, Data Science and Machine Learning
+- 🌱 I’m currently learning about AI, Data Science, Machine Learning and ChatBot 🤖💬
 
 ### Languages and Tools
 <p align="left">
